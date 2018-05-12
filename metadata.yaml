@@ -1,0 +1,32 @@
+_repo: A-Little-Preserving-Book-for-a-Little-Girl_44848
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: O'Brien, Harriet
+    gutenberg_agent_id: '38361'
+    url: http://www.gutenberg.org/2009/agents/38361
+covers:
+- cover_type: archival
+  image_path: 44848-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Waterman, Amy Harlow (Lane), Mrs.
+    alias: Waterman, Amy L.
+    birthdate: 1873
+    gutenberg_agent_id: '42945'
+    url: http://www.gutenberg.org/2009/agents/42945
+description: ''
+gutenberg_issued: '2014-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44848'
+  lccn: '20008255'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canning and preserving'
+- !lcc 'TX'
+title: A Little Preserving Book for a Little Girl
+url: http://www.gutenberg.org/ebooks/44848
